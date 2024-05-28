@@ -9,8 +9,8 @@ const Hero = () => {
             <p className='text-2xl'>A good example of a paragraph contains a topic sentence, details and a <br />
             conclusion. There are many different kinds of animals that live in China.</p>
             <div className='mt-2 flex gap-3'>
-                <button className='px-9 py-3 max-w-[50] rounded-md bg-[#216568]'>Get Started</button>
-                <button className='px-9 py-3 max-w-[50] rounded-md bg-[#216568]'>Discount</button>
+                <button className='px-9 py-3 max-w-[50] rounded-md font-medium bg-[#00df9a] text-black'>Get Started</button>
+                <button className='px-9 py-3 max-w-[50] rounded-md font-medium bg-[#00df9a] text-black'>Discount</button>
             </div>
         </div>
         <div>
