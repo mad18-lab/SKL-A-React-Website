@@ -4,7 +4,7 @@ import { AiOutlineGlobal } from "react-icons/ai";
 const Navbar = () => {
   return (
     <div className='w-full text-black'>
-      <div className='flex justify-between max-w-[1280px] mx-auto px-8 py-2'>
+      <div className='flex justify-between max-w-[1280px] mx-auto px-8 py-2 items-center'>
         <div className='flex justify-between gap-5'>
             <div className='flex gap-2'>
                 <img src='coding.png' alt='/' className='w-20'/>

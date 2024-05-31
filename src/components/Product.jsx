@@ -3,7 +3,7 @@ import React from 'react'
 const Product = () => {
   return (
     <div className='w-full'>
-        <div className='max-w-[1280px] mx-auto px-4 py-7 grid grid-cols-3'>
+        <div className='max-w-[1280px] mx-auto px-4 pt-12 pb-16 grid grid-cols-3'>
             <div className='col-span-2 pl-24'>
                 <img src='books.png' alt='/' />
             </div>
